@@ -132,6 +132,10 @@ const config = {
         {
           label: 'OSC Docs',
           to: '/docs/osc-docs'
+        },
+        {
+          label: 'Swamp Scheduler',
+          to: '/docs/swamp-scheduler'
         }
         ]
       },
